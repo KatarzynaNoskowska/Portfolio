@@ -31,11 +31,11 @@ At this point I know that software testing is my future and I intend constantly 
 
 # My Test Documentation
 * *[Zestawy, scenariusze, przypadki](https://drive.google.com/file/d/1XK_LUcSw619DSrnC4q5L5LD8kuaMjeQl/view?usp=sharing)*
-* *[Wybrane przypadki testowe](https://drive.google.com/file/d/1LfbhoS1zjXPUiEnAxa0uKBei7SfCO-eQ/view?usp=sharing)*
+* *[Wybrane przypadki testowe](https://drive.google.com/drive/folders/1lz_n2pT5iZzBLm3bquW-xPvhbksxPzCr?usp=sharing)*
 * *[Wybrane zgłoszenia defektów](https://drive.google.com/file/d/1LPDfbivC8aO2SBmbR4IOwsWQRES6K5OB/view?usp=sharing)*
-* *[Screeny ID001](https://drive.google.com/file/d/15ZU6SODCr3Mzhk94_0tBUhDO_cY6qe8q/view?usp=sharing)*
-* *[Screeny ID002](https://drive.google.com/file/d/1rXtbZAiUAXXkXJ-rMDAGc3SqXf0-USZF/view?usp=sharing)*
-* *[Screeny ID003](https://drive.google.com/file/d/1Gh3HH6yvBHmU4XWYdf1VWkP7k-7sUPTT/view?usp=sharing)*
+* *[Screeny ID001](https://drive.google.com/drive/folders/1T2zGp17GlS3iECrSQcbcDtwry0lfuYBr?usp=sharing)*
+* *[Screeny ID002](https://drive.google.com/drive/folders/1ix16WfVVS9rP43IZY2pbTsRJvXbPxdER?usp=sharing)*
+* *[Screeny ID003](https://drive.google.com/drive/folders/17GPlIjvM1dicHt8_4dOoQvTz4t3om7oS?usp=sharing)*
 
 # My Projects
 * *[Future Collars Project](https://drive.google.com/drive/folders/1LL2Lm5w4ehxSleBBeNk-63_RMSqzsiNG?usp=sharing)*
