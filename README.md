@@ -14,7 +14,8 @@ At this point I know that software testing is my future and I intend constantly 
 * Scrum
 * Kanban
 * Markdown - In Progress
-* SQL For Testers- registered on online course dated on 22-23.08.2020- by testuj.pl 
+* SQL
+* Microsoft SQL Server Management Studio
 
 # Certificates
 * ISTQB Certified Tester- Foundation Level No. 14863/FLCT/2020
